@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I’m V Naga Sai Karthik
 
-<!--
-**karty123/karty123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Information Technology student learning data analysis through hands-on work with Python, SQL, Excel, and Power BI.
 
-Here are some ideas to get you started:
+My focus is on:
+- Understanding data before analysis  
+- Defining clear, meaningful metrics  
+- Presenting results in a simple, usable format  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building and documenting practical analytics projects using real-world datasets, with an emphasis on sales, operations, and basic business reporting.
+
+### Tools
+- Python (Pandas, basic visualization)
+- SQL (joins, aggregations, KPI queries)
+- Excel (data cleaning, pivot tables)
+- Power BI (dashboarding)
+
+### Featured Work
+- **Outlet Performance Analytics (Retail / QSR)**  
+  Outlet-level sales and KPI analysis using Python, SQL, and Power BI.  
+  *(Repository link will be added here)*
+
+📫 LinkedIn: https://www.linkedin.com/in/vnsk1234
