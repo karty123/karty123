@@ -33,6 +33,6 @@ I specialize in building scalable data pipelines, standardizing messy datasets, 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Insert your newly shortened LinkedIn URL here]
-* **Email:** [Insert your professional email here]
-* **Resume:** [Insert a Google Drive link to your 1-page PDF Resume]
+* **LinkedIn:** [V Naga Sai Karthik](https://www.linkedin.com/in/vnsk1234)
+* **Email:** [vnskarthik03@gmail.com](mailto:vnskarthik03@gmail.com)
+* **Resume:** [View My Resume](https://drive.google.com/file/d/1SSWFGXRqQgi7PHE7cF9e1dDZSHhWinwG/view?usp=sharing)
