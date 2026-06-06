@@ -5,7 +5,7 @@
 
 I am most interested in the part of analytics that begins before the dashboard exists—understanding messy operational data, defining reliable business logic, and building systems that stakeholders can trust. Rather than relying on predefined tutorials or perfectly curated datasets, I enjoy working through ambiguous business problems and designing scalable analytical solutions from the ground up. My focus is on creating data models, KPIs, and reporting frameworks that turn complexity into clear business decisions.
 
-🎓 B.E. Information Technology – Army Institute of Technology (Class of 2026)
+🎓 B.E. Information Technology – Army Institute of Technology (Class of 2026)   
 📍 Pune, India | Open to Data/Product Analyst opportunities
 
 ---
